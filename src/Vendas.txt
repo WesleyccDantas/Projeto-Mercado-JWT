@@ -1,0 +1,4 @@
+Produto: Frango, Preço: 20, Quantidade: 29,1,0
+Produto: calabresa, Preço: 6, Quantidade: 19,1,0
+Produto: Arroz, Preço: 10, Quantidade: 90,10,5
+Produto: calabresa, Preço: 6, Quantidade: 15,5,1

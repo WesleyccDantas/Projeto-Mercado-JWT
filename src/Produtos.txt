@@ -1,0 +1,7 @@
+Arroz,10,100
+feijão,100,15
+macarrão,15,200
+cerveja,7,200
+carne,30,50
+Frango,20,30
+calabresa,6,20
